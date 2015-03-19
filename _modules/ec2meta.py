@@ -4,7 +4,7 @@ Get the EC2 metadata by wrapping the ec2metadata script from AWS
 
 Author: Ștefan Rusu <saltwaterc@gmail.com>
 
-TODO: make it independent on ec2metatada which is Python anyway. This was the five minute solution to the issue.
+TODO: make it independent on ec2metatada which is Python anyway. This was the five minute solution for the issue.
 
 """
 
